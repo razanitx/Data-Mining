@@ -1,4 +1,4 @@
-# IT326
+# Data Mining – Stroke Risk Prediction
 
 Project Motivation:
 
